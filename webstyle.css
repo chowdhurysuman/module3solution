@@ -12,7 +12,7 @@ a:hover, a:link, a:visited{
 	border-radius: 0px;
 	border: 0px;
 }
-.navbar-header{
+#navbar-header{
 
 	background-color: orange;
 	border-radius: 0px;
@@ -25,10 +25,7 @@ a:hover, a:link, a:visited{
 		color: white;
 		font-weight: bold;
 	}
-section{
-		
-		float: left;
-}
+
 		#box1{
 			background-color: #00BFFF;
 		  	position: relative;
@@ -41,29 +38,7 @@ section{
 			text-align: center;
 			font-size: 125%;
 		}
-		#box2{
-			background-color: #807E83;
-			position: relative;
-			padding: 30px;
-			margin: 10px;
-			border: 1px solid black;
-		}
-		#head2{
-			text-align: center;
-			font-size: 125%;
-		}
 		
-		#box3{
-			background-color: #807E83;
-			position: relative;
-			padding: 30px;
-			margin: 10px;
-			border: 1px solid black;
-		}
-		#head3{
-			text-align: center;
-			font-size: 125%;
-		}
 
  #nav-list{
 	border: 1px solid black;
