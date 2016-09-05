@@ -7,12 +7,12 @@ body{
 a:hover, a:link, a:visited{ 
 	color: black;
 }
-.header-nav{
+#header-nav{
 	background-color: orange;
 	border-radius: 0px;
 	border: 0px;
 }
-#navbar-header{
+.navbar-header{
 
 	background-color: orange;
 	border-radius: 0px;
@@ -38,7 +38,6 @@ a:hover, a:link, a:visited{
 			text-align: center;
 			font-size: 125%;
 		}
-		
 
  #nav-list{
 	border: 1px solid black;
