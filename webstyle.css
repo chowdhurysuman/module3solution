@@ -25,7 +25,10 @@ a:hover, a:link, a:visited{
 		color: white;
 		font-weight: bold;
 	}
-
+section{
+		
+		float: left;
+}
 		#box1{
 			background-color: #00BFFF;
 		  	position: relative;
@@ -35,6 +38,29 @@ a:hover, a:link, a:visited{
 			
 		}
 		#head1{
+			text-align: center;
+			font-size: 125%;
+		}
+		#box2{
+			background-color: #807E83;
+			position: relative;
+			padding: 30px;
+			margin: 10px;
+			border: 1px solid black;
+		}
+		#head2{
+			text-align: center;
+			font-size: 125%;
+		}
+		
+		#box3{
+			background-color: #807E83;
+			position: relative;
+			padding: 30px;
+			margin: 10px;
+			border: 1px solid black;
+		}
+		#head3{
 			text-align: center;
 			font-size: 125%;
 		}
