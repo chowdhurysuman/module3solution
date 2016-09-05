@@ -19,6 +19,11 @@ a:hover, a:link, a:visited{
 	border: 0px;
 	padding: 30px;
 }
+.navbar-brand{
+	background-color: orange;
+	border-radius: 0px;
+	padding: 30px;
+}
 #line1{
 		padding: 40px;
 		font-size: 200%;
