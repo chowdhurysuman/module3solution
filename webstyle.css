@@ -7,7 +7,7 @@ body{
 a:hover, a:link, a:visited{ 
 	color: black;
 }
-#header-nav{
+.header-nav{
 	background-color: orange;
 	border-radius: 0px;
 	border: 0px;
